@@ -1,0 +1,14 @@
+27890e7 (HEAD -> deathedHeadBranch) HEAD@{0}: checkout: moving from 27890e73af83508cfdb385f2ccf535ee6bb5fe5e to deathedHeadBranch
+27890e7 (HEAD -> deathedHeadBranch) HEAD@{1}: commit: Edycja
+a9f6d0e HEAD@{2}: checkout: moving from main to a9f6d0e107014bd72e5ccf601858f87ed5c77760
+c114584 (origin/main, origin/HEAD, main) HEAD@{3}: merge origin/main: Fast-forward
+1a57e33 HEAD@{4}: checkout: moving from texts to main
+3b251c7 (tag: V1.1, origin/texts, texts) HEAD@{5}: commit: Kant rozprawa
+a9f6d0e HEAD@{6}: commit: Lorem ipusum
+1a57e33 HEAD@{7}: checkout: moving from main to texts
+1a57e33 HEAD@{8}: merge origin/main: Fast-forward
+716077a HEAD@{9}: checkout: moving from personal_details to main
+3ece637 (tag: v1.0, origin/personal_details, personal_details) HEAD@{10}: checkout: moving from personal_details to personal_details
+3ece637 (tag: v1.0, origin/personal_details, personal_details) HEAD@{11}: branch: Reset to origin/personal_details
+3ece637 (tag: v1.0, origin/personal_details, personal_details) HEAD@{12}: commit: E-mail adress
+:
